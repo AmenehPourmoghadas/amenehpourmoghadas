@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning AWS DevOps Associate Certificate!!!
+- 🌱 I’m currently learning securities in Azure DevOps !!!
 <!--
 **AmenehPourmoghadas/amenehpourmoghadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
