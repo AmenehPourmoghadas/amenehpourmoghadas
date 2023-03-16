@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning securities in Azure DevOps !!!
+- 🌱 I’m currently preparing for Microsoft AZ-500 Security Certificate exam !!!
 <!--
 **AmenehPourmoghadas/amenehpourmoghadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
